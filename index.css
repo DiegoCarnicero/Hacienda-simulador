@@ -10,3 +10,13 @@ input{
 button{
     display: inline-flex;
 }
+
+.coloreo{
+    display: flex;
+    color: blue;
+}
+
+.coloreado{
+    display: flex;
+    color: red;
+}
