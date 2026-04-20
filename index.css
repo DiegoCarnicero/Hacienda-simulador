@@ -1,0 +1,12 @@
+.body{
+    display: flex;
+    justify-content: center;
+}
+
+input{
+    display: inline-flex;
+}
+
+button{
+    display: inline-flex;
+}
