@@ -9,7 +9,7 @@ const texto2 = document.getElementById("recibido");
 const neto = document.getElementById("montoNeto");
 const recibido = document.getElementById("porcentaje");
 
-seleccionButton.addEventListener("click", () => {
+seleccionButton.addEventListener("click", function() {
 
    const salario = Number(seleccionInput.value);
 
