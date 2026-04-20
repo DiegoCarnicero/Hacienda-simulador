@@ -22,6 +22,7 @@ seleccionButton.addEventListener("click", function() {
     texto1.classList.add("coloreo");
      texto2.scrollIntoView({ behavior: "smooth" });
     texto2.classList.add("coloreo");
+    
   } else {
     retencion = 15;
 
